@@ -1,1 +1,1 @@
-# CNN1_Series_Assignment
+# Resolution of Exercises: CNN1_Series_Assignment-SimpleConv1d
